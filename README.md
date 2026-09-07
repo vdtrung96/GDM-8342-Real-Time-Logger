@@ -16,13 +16,6 @@ command-line script or a Tkinter GUI with a live table and plot.
 > a standard interface on this model — use the VISA backend only if you have a
 > GPIB-USB adapter.
 
-## Contents
-
-| File | Description |
-|------|-------------|
-| `gdm8342_gui.py` | GUI: live table + plot, Start/Stop, unit selector, CSV export |
-| `gdm8342_logger.py` | Minimal command-line logger (no GUI) |
-
 ## Requirements
 
 - Python 3.8+
